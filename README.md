@@ -33,7 +33,7 @@ Panda CSS
 
 ### Frameworks and libraries
 
-<center><h4>Client side rendering</h4></center>
+: <h4>Client side rendering</h4> :
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
