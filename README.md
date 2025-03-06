@@ -36,8 +36,7 @@ Lit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
-  <img src="https>//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
-  <p>Lit</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
 </div>
 
 
