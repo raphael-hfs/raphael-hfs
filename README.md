@@ -33,7 +33,6 @@ Panda CSS
 
 ### Frameworks and libraries
 
-Lit
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
@@ -42,6 +41,8 @@ Lit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
 </div>
+
+Lit
 
 #### UI
 
