@@ -1,13 +1,14 @@
-# Welcome!
-
-Hello! My name is Raphael and I'm a Brazilian full-stack developer
-
-# GitHub Stats
-
-[![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-hfs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-hfs&langs_count=8&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
+  
+  # Welcome!
+  
+  Hello! My name is Raphael and I'm a Brazilian full-stack developer
+  
+  # GitHub Stats
+  
+  [![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=raphael-hfs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-hfs&langs_count=8&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  
   
   # Skills
   
@@ -58,11 +59,12 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" alt="Material-UI" width="80px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" alt="Quasar" width="80px" />
   </div>
+  
+  ## Backend
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
+
+  ## Full stack
+
+
 </div>
-
-## Backend
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
-
-## Full stack
-
