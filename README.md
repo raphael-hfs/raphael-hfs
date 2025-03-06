@@ -11,7 +11,7 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 ## Frontend
 
-<div style="inline-block">
+<div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="80px" />
 </div>
@@ -22,18 +22,21 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 ### CSS Frameworks
 
-<div style="inline-block">
+<div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" alt="Materialize CSS" width="80px" />
 </div>
 
 ### Frameworks and libraries
 
-<div style="inline-flex">
+Lit
+
+<div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
+  <img src="https>//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
   <p>Lit</p>
 </div>
 
