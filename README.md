@@ -16,7 +16,7 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 ### CSS Preprocessors
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicons/icons/less/less-plain-wordmark.svg" alt="Less">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/less/less-plain-wordmark.svg" />
 
 ### CSS Frameworks
 
