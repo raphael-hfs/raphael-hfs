@@ -27,6 +27,10 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" alt="Materialize CSS" width="80px" />
 </div>
 
+#### CSS in JS
+
+Panda CSS
+
 ### Frameworks and libraries
 
 Lit
@@ -39,7 +43,13 @@ Lit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
 </div>
 
+<div style="display: inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" alt="Material-UI" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-original.svg" alt="Quasar" width="80px" />
+</div>
 
 ## Backend
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
+
+## Full
