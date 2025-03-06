@@ -13,7 +13,7 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 <div style="inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="80px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="80px" />
 </div>
 
 ### CSS Preprocessors
@@ -22,20 +22,20 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 ### CSS Frameworks
 
-Tailwind CSS
-Materialize
-Panda CSS
+<div style="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materializecss/materializecss-original.svg" alt="Materialize CSS" width="80px" />
+</div>
 
 ### Frameworks and libraries
 
-React.js
-Vue.js
-Lit
-Solid
-Preact
-Astro
-Qwik
-Next.js
+<div style="inline-block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="80px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
+  <p>Lit</p>
+</div>
 
 ## Backend
 
