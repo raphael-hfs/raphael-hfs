@@ -33,7 +33,7 @@ Panda CSS
 
 ### Frameworks and libraries
 
-
+<h4 style="text-align: center">Client side rendering</h4>
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
@@ -42,6 +42,11 @@ Panda CSS
 </div>
 
 Lit
+
+<h4 style="text-align: center">Server side rendering</h4>
+<div style="display: center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
+</div>
 
 #### UI
 
@@ -56,4 +61,3 @@ Lit
 
 ## Full stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
