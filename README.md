@@ -36,9 +36,6 @@
   
   ### Frameworks and libraries
   
-  <div align="center">
-    <h4>Client side rendering</h4>
-  </div>
   <div style="display: inline-block">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="80px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="80px" />
@@ -47,12 +44,7 @@
   </div>
   
   Lit
-  
-  <h4>Server side rendering</h4>
-  <div style="display: center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
-  </div>
-  
+
   #### UI
   
   <div style="display: inline-block">
@@ -70,6 +62,7 @@
 
   <div style="display: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="80px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
   </div>
 
 </div>
