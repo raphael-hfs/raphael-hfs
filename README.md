@@ -64,6 +64,8 @@
   <div style="display: center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="80px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qwik/qwik-original.svg" alt="Qwik" width="80px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="NextJS" width="80px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" alt="Astro" width="80px" />
   </div>
 
 </div>
