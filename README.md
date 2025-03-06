@@ -43,6 +43,8 @@ Lit
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
 </div>
 
+#### UI
+
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" alt="Material-UI" width="80px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quasar/quasar-plain.svg" alt="Quasar" width="80px" />
@@ -51,5 +53,3 @@ Lit
 ## Backend
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
-
-## Full
