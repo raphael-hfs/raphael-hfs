@@ -11,12 +11,12 @@ Hello! My name is Raphael and I'm a Brazilian full-stack developer
 
 ## Frontend
 
-HTML
-CSS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/html5/html5-original-wordmark.svg" alt="HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/css3/css3-original.svg" alt="CSS">
 
 ### CSS Preprocessors
 
-Less
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicons@latest/icons/less/less-plain-wordmark.svg" alt="Less">
 
 ### CSS Frameworks
 
