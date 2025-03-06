@@ -62,9 +62,14 @@
   
   ## Backend
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
+  <div style="display: center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" alt="Fastify" width="80px" />
+  </div>
 
   ## Full stack
 
+  <div style="display: center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="80px" />
+  </div>
 
 </div>
