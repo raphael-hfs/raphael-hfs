@@ -77,6 +77,7 @@
   </div>
 
   Chakra UI
+  Kobalte
   
   ## Backend
   
