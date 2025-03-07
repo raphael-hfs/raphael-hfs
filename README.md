@@ -67,6 +67,7 @@
   </div>
 
   Lit
+  HTMX
 
   #### UI
   
