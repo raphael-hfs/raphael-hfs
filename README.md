@@ -126,6 +126,14 @@
 
   Roblox Studio
 
+  ## Host, DevOps and Cloud
+
+  <div style="display: center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="80px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="Cloudflare Workers" width="80px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon#latest/icons/docker/docker-original.svg" alt="Docker" width="80px" />
+  </div>
+
   ## Data
 
   <div style="display: center">
