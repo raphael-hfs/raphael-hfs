@@ -66,7 +66,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="80px" />
   </div>
 
-  Lit - HTMX
+  Lit - Preact
 
   #### UI
   
