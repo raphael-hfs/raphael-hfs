@@ -63,7 +63,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue" width="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="70px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" alt="AlpineJS" width="70px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" alt="Handlebars" width="70px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" alt="Ember" width="70px" />
   </div>
 
   Lit - Preact
